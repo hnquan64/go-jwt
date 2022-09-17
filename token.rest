@@ -1,0 +1,10 @@
+@host = localhost:8080
+// Generate JWT
+POST http://{{host}}/api/token HTTP/1.1
+content-type: application/json
+    
+{
+    "email": "demo04@gmail.com",
+    "password": "123456789"
+}
+###

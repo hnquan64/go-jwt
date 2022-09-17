@@ -1,0 +1,9 @@
+{
+    "data_base_config": {
+        "user": "root",
+        "pass": "hnq641999",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "metanode"
+    }
+}
